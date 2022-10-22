@@ -1,2 +1,2 @@
-# School-Programme
-This programme is the practice programme for the examinations 
+# Java_Assistant
+Java based voice assistant
